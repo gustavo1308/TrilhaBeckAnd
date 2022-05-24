@@ -1,7 +1,7 @@
 <h1 align="center">
 <img src="https://3.bp.blogspot.com/-wf8BN5eUkxM/VirtXTu3SrI/AAAAAAAAK0Y/G25X2EnwolI/s1600/1.png" width="600pix" height="200pix"/>
 
-## <i>Indice
+## <i>Índice
 - [Com suas palavras defina, Oque é um sistema de controle de versões (VCS)](#-Com-suas-palavras-defina,-Oque-é-um-sistema-de-controle-deversões-(VCS)?)
 
 - [Cite 5 vantagens em utilizar um VCS](#-Cite-5-vantagens-em-utilizar-um-VCS:)
